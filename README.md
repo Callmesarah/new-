@@ -40,7 +40,7 @@ Users should be able to:
 - CSS Grid
 - responsive site
 ### What I learned
-Am proud to learn these:
+I am proud to learn these:
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
